@@ -8,7 +8,7 @@
 3. Visualization
 4. Results and evaluation
 
-### unicorns2 - Adress Missing Data
+### unicorns2 - Address Missing Data
 1. Package import
 2. Data exploration
 3. Model building
